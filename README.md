@@ -1,4 +1,4 @@
-# Karnataka TOP-Crop Price Forecasting — Capstone Project
+# Karnataka TOP-Crop Price Forecasting - Capstone Project
 
 **QM640: Data Analytics Capstone — Walsh College**
 Student: Alvis Lazarus A · Mentor: Pralhad Teggi · Term 3
