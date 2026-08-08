@@ -27,6 +27,8 @@ capstone_project_alvis/
 - **Program/** — one script per pipeline stage: data acquisition, cleaning
   and integration, feature engineering, baseline models (naive, SARIMA),
   XGBoost training and tuning, evaluation, and profit ranking.
+- **Interim Report/** — It contains the Interim Report.
+- **Final Report/** — It contains the Final Report.
 - **Output/** — results tables, figures, and serialized model files produced
   by the scripts in `Program/`.
 
