@@ -15,7 +15,9 @@ methodology is in the project synopsis.
 ```
 capstone_project_alvis/
 ├── Data/       # Raw source extracts and the cleaned, merged crop-district-month panel
-├── Program/    # Data-collection and modeling scripts
+├── Program/    # Data-collection and modeling scripts/
+├── Interim Report/    # Interim Report
+├── Final Report/    # Final Report
 └── Output/     # Results, figures, and saved model artifacts
 ```
 
